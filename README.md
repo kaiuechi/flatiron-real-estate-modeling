@@ -2,7 +2,7 @@
 **Author:** Kai Uechi
 
 ## Overview
-This project uses linear regression to investigate how features of a home affect its price. Although the final model does not provide particularly accurate prediction, it shows that house condition and house grade have a large impact on price. By combining this insight with information on the cost of renovating, a real estate investment firm could identify the most profitable investment opportunities.
+This project uses linear regression to investigate how features of a home affect its price. Although the final model does not provide particularly accurate prediction, it shows that living area, house condition, and house grade have a large impact on price. By combining this insight with information on the cost of renovating, a real estate investment firm could identify the most profitable investment opportunities.
 
 ## Business Problem
 A real estate investment firm needs to decide how best to utilize funds when improving existing properties. By analyzing the effect that various features and ammenities have on the price of a property, the firm can ensure it uses its resources efficiently. Using linear regression, I can model for inference to discover what factors increase price the most.
@@ -109,13 +109,13 @@ For any additional questions, please contact **Kai Uechi (kaiuechi@gmail.com)**
 ## Repository Structure
 ***
 
-    `├── code`
-    `│   └── draft.ipynb  -An unorganized, experimental notebook from earlier in the project`
-    `├── data  -Contains the dataset as a .csv file, and a .md file explaining the columns`
-    `├── images  -Contains images used in README`
-    `├── README.md  -Overview of analysis and repo contents`
-    `├── real-estate-modeling_ProjectPresentation.pdf  -A slide deck for presenting this project`
-    `└── real-estate-modeling.ipynb  -The final notebook for this project.`
+    ├── code
+    │   └── draft.ipynb  -An unorganized, experimental notebook from earlier in the project
+    ├── data  -Contains the dataset as a .csv file, and a .md file explaining the columns
+    ├── images  -Contains images used in README
+    ├── README.md  -Overview of analysis and repo contents
+    ├── real-estate-modeling_ProjectPresentation.pdf  -A slide deck for presenting this project
+    └── real-estate-modeling.ipynb  -The final notebook for this project.
 
 
 ```python
